@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "prayers": {
+      "$uid": {
+        ".read": true,
+        ".write": true
+      }
+    }
+  }
+}
